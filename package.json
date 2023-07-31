@@ -1,0 +1,20 @@
+{
+  "name": "projeto-spotify",
+  "version": "1.0.0",
+  "description": "Clone do Site Spotify 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Clone",
+    "Spotify"
+  ],
+  "author": "Yan Caue",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.3"
+  }
+}
